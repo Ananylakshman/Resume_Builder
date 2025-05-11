@@ -4,7 +4,7 @@ A sleek and easy-to-use Resume Builder built with **Vanilla JavaScript**, **HTML
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the project](https://ananylakshman.github.io/Resume-Builder/)  
+👉 [Click here to view the project]( https://ananylakshman.github.io/Resume_Builder/)  
 
 
 ## 🛠 Features
